@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <a href="https://whop.com/pearl-solutions" target="_blank">
+  <a href="https://whop.com/pearl-solutions/pearl-solutions/" target="_blank">
     🛒 <b>Get Access on Whop</b>
   </a>
 </div>
