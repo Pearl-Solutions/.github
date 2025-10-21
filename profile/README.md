@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/3912bR6h/Pearl-Solutions-Tavola-disegno-1-02.png" alt="Pearl Solutions Banner" />
+  <img src="https://github.com/Pearl-Solutions/.github/blob/main/Pearl_Solutions__Tavola_disegno_1-02.png?raw=true" alt="Pearl Solutions Banner" />
 </div>
 
 <p align="center">
